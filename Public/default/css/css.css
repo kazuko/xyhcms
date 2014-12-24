@@ -104,7 +104,7 @@ text-align: center;margin:5px 3px 0px;
 
 
 #demc{height:142px; overflow:hidden; width:966px; padding:0;}
-.jdimg ul li{width:162px; text-align:center; margin-right:10px; float:left; display:inline; line-height:21px; }
+.jdimg ul li{width:162px; text-align:center; margin-right:10px; float:left; display:inline; line-height:21px;font-size: 12px; }
 .jdimg ul li span{display:block; text-align:center; height:20px; margin-top:3px;}
 .jdimg ul li a img{width:154px; height:111px; border:1px solid #ccc; padding:3px; background:#FFF;}
 
